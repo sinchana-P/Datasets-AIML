@@ -1,0 +1,5 @@
+﻿Sky,Temperature,Humidity,Wind,Water,Forecast,Output
+sunny,warm,normal,slow,warm,same,yes
+sunny,warm,hot,slow,warm,same,yes
+rainy,cold,hot,slow,warm,change,no
+rainy,warm,hot,slow,cold,change,yes
